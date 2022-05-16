@@ -15,11 +15,11 @@ def formatter(symbol, text):
 
 
 # main routine
-print(formatter("-", "Welcome to the lucky unicorn game"))
+print(formatter("-", "Welcome to the Maori number quiz "))
 print()
-print(formatter("!", "Congradulations, you got a unicorn"))
+print(formatter("@  ", "your final score is "))
 print()
-print(formatter("*","Goodbye"))
+print(formatter("*","farewell"))
 
 
 
