@@ -13,7 +13,6 @@ def formatter(symbol, text):
     return f"{top_bottom}\n{formatted_text}\n{top_bottom}"
 
 
-
 # main routine
 print(formatter("-", "Welcome to the Maori number quiz "))
 print()

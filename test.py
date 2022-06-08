@@ -37,9 +37,10 @@ def instructions():
 
     print(formatter('*', 'how to play'))
     print()
-    print("when you see a number in english answer with the Maori equivalent\n"
-          "for example: if it showed up with the number one\n"
-          "you would respond with tahi or if it came up with 3 it would be toru\n")
+    print( "when you see a number in english answer with the Maori equivalent. For example:\n" 
+         "if it showed up with number one you would respond wtih tahi \n"
+          "if it came up with 3 you wound say toru.\n")
+
     print()
     print()
 
